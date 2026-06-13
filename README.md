@@ -1,0 +1,2 @@
+# Dominios
+Script termux
